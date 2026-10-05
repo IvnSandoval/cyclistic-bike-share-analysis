@@ -91,3 +91,23 @@ The analysis revealed several clear differences between casual riders and annual
 - **Ridership was higher during warmer months**, showing that seasonality has a strong effect on bike-share usage.
 
 Overall, the patterns suggest that annual members are more likely to use Cyclistic as part of a regular transportation routine, while casual riders are more likely to use the service occasionally or recreationally.
+
+## Tableau Dashboard
+
+A Tableau dashboard was created to summarize the main differences between casual riders and annual members.
+
+The dashboard includes visualizations for:
+
+- Rider type distribution
+- Ride duration
+- Monthly ride trends
+- Day-of-week patterns
+- Hour-of-day patterns
+- Bike type usage
+- Station activity
+
+These visualizations help make the differences between casual riders and annual members easier to understand and communicate.
+
+![Cyclistic Dashboard](Visualizations/Cyclistic_Dashboard.png)
+
+**Tableau Public Dashboard:** [Cyclistic Rider Behavior: Members vs Casual Riders](https://public.tableau.com/views/CyclisticBike-ShareAnalysisMembersvsCasualRiders_17909345650780/CyclisticRiderBehavior?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
