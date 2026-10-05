@@ -1,0 +1,21 @@
+"member_casual","station_rank","start_station_name","total_rides","pct_of_known_station_rides"
+casual,1,Navy Pier,51740,3.07
+casual,2,DuSable Lake Shore Dr & Monroe St,30273,1.79
+casual,3,Michigan Ave & Oak St,21290,1.26
+casual,4,DuSable Lake Shore Dr & North Blvd,17984,1.07
+casual,5,Millennium Park,17411,1.03
+casual,6,Shedd Aquarium,16607,0.98
+casual,7,Theater on the Lake,15111,0.90
+casual,8,Dusable Harbor,14233,0.84
+casual,9,Michigan Ave & 8th St,10475,0.62
+casual,10,Field Museum,10243,0.61
+member,1,Canal St & Madison St,23179,0.74
+member,2,State St & Chicago Ave,22126,0.70
+member,3,Clinton St & Jackson Blvd,20024,0.64
+member,4,Wells St & Elm St,19638,0.62
+member,5,Clinton St & Madison St,19477,0.62
+member,6,Wells St & Concord Ln,19398,0.62
+member,7,Wells St & Huron St,17923,0.57
+member,8,Wells St & Hubbard St,17523,0.56
+member,9,Clark St & Elm St,16650,0.53
+member,10,Navy Pier,16289,0.52

@@ -1,0 +1,15 @@
+"member_casual","day_of_week","day_name","total_rides","pct_of_rider_type"
+casual,1,Sunday,348468,16.13
+casual,2,Monday,257881,11.94
+casual,3,Tuesday,246857,11.43
+casual,4,Wednesday,247902,11.48
+casual,5,Thursday,268025,12.41
+casual,6,Friday,334557,15.49
+casual,7,Saturday,456663,21.14
+member,1,Sunday,420359,10.63
+member,2,Monday,566150,14.31
+member,3,Tuesday,630934,15.95
+member,4,Wednesday,631953,15.98
+member,5,Thursday,625494,15.81
+member,6,Friday,577940,14.61
+member,7,Saturday,502764,12.71

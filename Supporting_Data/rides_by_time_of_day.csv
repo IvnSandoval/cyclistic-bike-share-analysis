@@ -1,0 +1,9 @@
+"member_casual","time_of_day","total_rides","pct_of_rider_type"
+casual,Evening,701448,32.47
+casual,Midday,695830,32.21
+casual,Night,426707,19.75
+casual,Morning,336140,15.56
+member,Evening,1367550,34.57
+member,Midday,1057385,26.73
+member,Morning,995939,25.18
+member,Night,534680,13.52
