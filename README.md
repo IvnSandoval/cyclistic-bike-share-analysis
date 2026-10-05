@@ -75,3 +75,19 @@ The analysis focused on several areas:
 Aggregations and comparisons were used to identify differences in when, how often, and how long casual riders and annual members used the bike-share service.
 
 The results of these queries were then used to create visualizations in Tableau and identify patterns relevant to the business question.
+
+## Key Findings
+
+The analysis revealed several clear differences between casual riders and annual members.
+
+- **Annual members completed more total rides** than casual riders, suggesting that members use the service more consistently.
+
+- **Casual riders generally had longer ride durations**, which may indicate that they are more likely to use Cyclistic for leisure or recreational trips.
+
+- **Members showed stronger weekday usage**, while casual riders were more active on weekends.
+
+- **Member activity was more concentrated around typical commuting hours**, while casual riders had a broader pattern of use throughout the day.
+
+- **Ridership was higher during warmer months**, showing that seasonality has a strong effect on bike-share usage.
+
+Overall, the patterns suggest that annual members are more likely to use Cyclistic as part of a regular transportation routine, while casual riders are more likely to use the service occasionally or recreationally.
