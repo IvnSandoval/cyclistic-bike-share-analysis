@@ -24,3 +24,34 @@ By identifying differences in riding patterns, Cyclistic can develop marketing s
 The project followed the Google Data Analytics process:
 
 **Ask → Prepare → Process → Analyze → Share → Act**
+
+## Data Source
+
+The analysis used 12 months of historical Divvy bike-share trip data provided by the City of Chicago.
+
+Each monthly dataset contained individual ride records with information such as:
+
+- Ride ID
+- Bike type
+- Start and end timestamps
+- Start and end station information
+- Geographic coordinates
+- Rider type: member or casual
+
+Because the original datasets contain a very large number of records, the raw monthly CSV files are not included in this repository. Smaller summary datasets used for analysis and visualization are included instead.
+
+## Data Preparation and Cleaning
+
+The monthly datasets were inspected and cleaned before analysis.
+
+The main preparation steps included:
+
+- Reviewing table structure and column consistency
+- Checking row counts and date ranges
+- Identifying missing values
+- Checking for duplicate ride IDs
+- Investigating invalid or negative ride durations
+- Standardizing fields and categories
+- Combining the monthly datasets into one clean dataset
+- Creating calculated variables such as ride duration
+- Performing quality checks before analysis
