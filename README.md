@@ -111,3 +111,25 @@ These visualizations help make the differences between casual riders and annual 
 ![Cyclistic Dashboard](Visualizations/Cyclistic_Dashboard.png)
 
 **Tableau Public Dashboard:** [Cyclistic Rider Behavior: Members vs Casual Riders](https://public.tableau.com/views/CyclisticBike-ShareAnalysisMembersvsCasualRiders_17909345650780/CyclisticRiderBehavior?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Recommendations
+
+Based on the differences identified between casual riders and annual members, Cyclistic could consider the following actions:
+
+### 1. Target Casual Riders During High-Activity Periods
+
+Focus membership promotions during periods when casual ridership is highest, especially on weekends and during warmer months.
+
+This would allow Cyclistic to reach casual riders when they are already actively using the service.
+
+### 2. Promote Membership to Frequent Recreational Riders
+
+Casual riders who take longer or repeated trips may be strong candidates for annual membership.
+
+Marketing could emphasize the convenience and potential value of becoming a member for riders who use Cyclistic regularly.
+
+### 3. Use High-Casual-Ridership Locations for Targeted Marketing
+
+Cyclistic could focus promotions at stations and locations with high casual rider activity.
+
+This could help the company reach recreational riders and tourists at points where they are already engaging with the bike-share system.
