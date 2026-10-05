@@ -55,3 +55,23 @@ The main preparation steps included:
 - Combining the monthly datasets into one clean dataset
 - Creating calculated variables such as ride duration
 - Performing quality checks before analysis
+
+## Analysis
+
+After the data was cleaned and consolidated, SQL was used to compare the riding behavior of casual riders and annual members.
+
+The analysis focused on several areas:
+
+- Total number of rides
+- Distribution of rides between casual riders and members
+- Ride duration by rider type
+- Monthly riding trends
+- Day-of-week riding patterns
+- Hour-of-day riding patterns
+- Time-of-day usage
+- Bike type usage
+- Station activity
+
+Aggregations and comparisons were used to identify differences in when, how often, and how long casual riders and annual members used the bike-share service.
+
+The results of these queries were then used to create visualizations in Tableau and identify patterns relevant to the business question.
