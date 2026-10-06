@@ -165,6 +165,7 @@ cyclistic-bike-share-analysis/
     ├── rides_by_day.csv
     ├── rides_by_hour.csv
     └── rides_by_month.csv
+``` 
 
 ## Final Report
 
