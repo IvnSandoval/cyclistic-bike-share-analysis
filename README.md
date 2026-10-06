@@ -133,3 +133,35 @@ Marketing could emphasize the convenience and potential value of becoming a memb
 Cyclistic could focus promotions at stations and locations with high casual rider activity.
 
 This could help the company reach recreational riders and tourists at points where they are already engaging with the bike-share system.
+
+## Project Files
+
+The repository is organized into separate folders for the main components of the project.
+
+```text
+cyclistic-bike-share-analysis/
+│
+├── README.md
+│
+├── SQL/
+│   ├── 01_prepare_data_inspection.sql
+│   ├── 02_prepare_data_quality.sql
+│   ├── 03_process_data_cleaning.sql
+│   └── 04_analyze_data.sql
+│
+├── Report/
+│   └── Ivan_Sandoval_Cyclistic_Bike_Share_Case_Study.pdf
+│
+├── Visualizations/
+│   ├── Cyclistic_Dashboard.png
+│   ├── Rides_By_Month.png
+│   ├── Rides_By_Day.png
+│   ├── Rides_By_Hour.png
+│   └── Ride_Duration.png
+│
+└── Data/
+    ├── rider_type_summary.csv
+    ├── ride_duration_summary.csv
+    ├── rides_by_day.csv
+    ├── rides_by_hour.csv
+    └── rides_by_month.csv
