@@ -189,3 +189,11 @@ This project demonstrates experience with:
 - Business problem solving
 - Data storytelling
 - Translating analytical findings into business recommendations
+
+## Author
+
+**Ivan Sandoval**
+
+B.S. in Statistics
+
+Aspiring Data Analyst
