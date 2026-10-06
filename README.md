@@ -165,3 +165,9 @@ cyclistic-bike-share-analysis/
     ├── rides_by_day.csv
     ├── rides_by_hour.csv
     └── rides_by_month.csv
+
+## Final Report
+
+The complete case study report includes the full analysis process, findings, visualizations, recommendations, and supporting documentation.
+
+[View the Full Cyclistic Case Study Report](Report/Ivan_Sandoval_Cyclistic_Bike_Share_Case_Study.pdf)
