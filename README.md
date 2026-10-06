@@ -159,7 +159,7 @@ cyclistic-bike-share-analysis/
 │   ├── Rides_By_Hour.png
 │   └── Ride_Duration.png
 │
-└── Data/
+└── Supporting_Data/
     ├── rider_type_summary.csv
     ├── ride_duration_summary.csv
     ├── rides_by_day.csv
