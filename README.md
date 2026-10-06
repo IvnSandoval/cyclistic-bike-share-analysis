@@ -172,3 +172,20 @@ cyclistic-bike-share-analysis/
 The complete case study report includes the full analysis process, findings, visualizations, recommendations, and supporting documentation.
 
 [View the Full Cyclistic Case Study Report](Report/Ivan_Sandoval_Cyclistic_Bike_Share_Case_Study.pdf)
+
+## Skills Demonstrated
+
+This project demonstrates experience with:
+
+- SQL querying
+- PostgreSQL
+- Data cleaning
+- Data validation
+- Data transformation
+- Exploratory data analysis
+- Aggregate analysis
+- Tableau dashboard development
+- Data visualization
+- Business problem solving
+- Data storytelling
+- Translating analytical findings into business recommendations
